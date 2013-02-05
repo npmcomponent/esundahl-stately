@@ -3,7 +3,7 @@
   "repo": "esundahl/stately",
   "description": "Stately is a symbol font that makes is easy to create a map of the United States using only HTML and CSS.",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": ["font", "css", "html", "stately", "icon", "states", "svg", "vector"],
   "dependencies": {},
   "development": {},
   "license": "MIT",
