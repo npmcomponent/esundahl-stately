@@ -1,0 +1,20 @@
+{
+  "name": "esundahl-stately",
+  "description": "Stately is a symbol font that makes is easy to create a map of the United States using only HTML and CSS.",
+  "version": "0.0.1",
+  "keywords": [
+    "font",
+    "css",
+    "html",
+    "stately",
+    "icon",
+    "states",
+    "svg",
+    "vector"
+  ],
+  "styles": [
+    "stately/stately.css"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
